@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/2ca8a2b3603b4833a924839c793b52d8/artifacts
+deleted_time: 1742753519319
+end_time: 1742752650839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2ca8a2b3603b4833a924839c793b52d8
+run_name: sincere-shoat-377
+run_uuid: 2ca8a2b3603b4833a924839c793b52d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752622483
+status: 3
+tags: []
+user_id: PAVLO-DEV

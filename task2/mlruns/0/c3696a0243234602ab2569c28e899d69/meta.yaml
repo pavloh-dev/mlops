@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/c3696a0243234602ab2569c28e899d69/artifacts
+deleted_time: 1742753519321
+end_time: 1742752505806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c3696a0243234602ab2569c28e899d69
+run_name: honorable-frog-521
+run_uuid: c3696a0243234602ab2569c28e899d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752481838
+status: 3
+tags: []
+user_id: PAVLO-DEV

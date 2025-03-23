@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742754308123
+current_stage: None
+description: ''
+last_updated_timestamp: 1742754308123
+name: random-forest-best-model
+run_id: 660b0205907a4969b6727062a9ca8c5b
+run_link: ''
+source: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/329198724501405311/660b0205907a4969b6727062a9ca8c5b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/329198724501405311/660b0205907a4969b6727062a9ca8c5b/artifacts/model
+user_id: null
+version: 1

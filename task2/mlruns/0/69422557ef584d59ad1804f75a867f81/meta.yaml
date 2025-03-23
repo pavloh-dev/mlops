@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/69422557ef584d59ad1804f75a867f81/artifacts
+deleted_time: 1742753519341
+end_time: 1742752330790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69422557ef584d59ad1804f75a867f81
+run_name: abrasive-snipe-911
+run_uuid: 69422557ef584d59ad1804f75a867f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752306045
+status: 4
+tags: []
+user_id: PAVLO-DEV

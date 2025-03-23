@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/51df874bbc034a49972e0f87621360c9/artifacts
+deleted_time: 1742753519339
+end_time: 1742752014904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51df874bbc034a49972e0f87621360c9
+run_name: burly-lynx-305
+run_uuid: 51df874bbc034a49972e0f87621360c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742751985287
+status: 3
+tags: []
+user_id: PAVLO-DEV

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/1c1ec710958f4d23900e84c743db92fa/artifacts
+deleted_time: 1742753519315
+end_time: 1742752659008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1c1ec710958f4d23900e84c743db92fa
+run_name: abundant-flea-112
+run_uuid: 1c1ec710958f4d23900e84c743db92fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752633881
+status: 3
+tags: []
+user_id: PAVLO-DEV

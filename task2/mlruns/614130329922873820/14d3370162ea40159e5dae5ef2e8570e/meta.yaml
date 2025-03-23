@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/614130329922873820/14d3370162ea40159e5dae5ef2e8570e/artifacts
+deleted_time: 1742753519317
+end_time: 1742753116972
+entry_point_name: ''
+experiment_id: '614130329922873820'
+lifecycle_stage: deleted
+run_id: 14d3370162ea40159e5dae5ef2e8570e
+run_name: rf-baseline
+run_uuid: 14d3370162ea40159e5dae5ef2e8570e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753092403
+status: 3
+tags: []
+user_id: PAVLO-DEV

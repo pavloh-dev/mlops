@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/kiev-/IdeaProjects/ml/mlops/task2/mlruns/0/2498ed5285df437fbfe516bc055f4044/artifacts
+deleted_time: 1742753519337
+end_time: 1742752195374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2498ed5285df437fbfe516bc055f4044
+run_name: rebellious-asp-663
+run_uuid: 2498ed5285df437fbfe516bc055f4044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752169919
+status: 4
+tags: []
+user_id: PAVLO-DEV
